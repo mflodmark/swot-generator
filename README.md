@@ -2,7 +2,7 @@
 
 This project generates a SWOT analysis for you using AI.
 
-[![SWOT Generator](./public/screenshot.png)](https://www.swot-generator.com)
+[![SWOT Generator](./public/screenshot.png)](https://www.swotgen.com)
 
 ## How it works
 

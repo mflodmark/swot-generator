@@ -123,7 +123,7 @@ const Home: NextPage = () => {
   return (
     <div className="flex max-w-5xl mx-auto flex-col items-center justify-center min-h-screen">
       <Head>
-        <title>SWOT Generator</title>
+        <title>SWOTGen</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
